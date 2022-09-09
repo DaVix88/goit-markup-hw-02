@@ -157,6 +157,7 @@ body {
 /* PORTFOLIO */
 .portfolio-bnt button{
     color: var(--main-color);
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
